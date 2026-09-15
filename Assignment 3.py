@@ -1,5 +1,7 @@
 """ Assignment 4
 
+Problem Statement: To check whether or not the triangle is a right-angled triangle using function
+
 Aim : Write a Python program that accepts the length of three sides of a triangle as inputs. The program should indicate whether or not the triangle 
 is a right - angled triangle using function.
 
